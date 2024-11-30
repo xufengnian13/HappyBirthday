@@ -1,5 +1,5 @@
 {
-  "greeting": "Dear,",
+  "greeting": "Dear",
   "name": "楠楠~",
   "greetingText": "有些人光是遇见就已经是上上签啦~",
   "wishText": "一岁一礼，一寸欢喜，顺遂无虞，皆得所愿",
@@ -13,11 +13,11 @@
   "text4Adjective": "特别的事情",
   "text5Entry": "因为，",
   "text5Content": "对我而言你是很特别的人~",
-  "smiley": ":)",
+  "smiley": "",
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "生日快乐哦!",
   "outroText": "我希望你喜欢这个小小的惊喜!",
-  "replayText": "如果你喜欢的话，可以再看一次哦!或者call me嗷哈哈哈哈哈……",
-  "outroSmiley": ":)"
+  "replayText": "如果你喜欢的话，可以再看一次哦!或者call me嗷哈哈哈哈哈",
+  "outroSmiley": ""
 }
